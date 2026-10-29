@@ -1,0 +1,10 @@
+# Default behavior
+*.min.css linguist-generated
+
+* text=auto eol=lf
+yarn.lock linguist-generated   
+
+public/** linguist-vendored
+
+*.js linguist-detectable
+# eof ea411959
